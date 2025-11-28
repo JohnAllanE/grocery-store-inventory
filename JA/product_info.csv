@@ -1,0 +1,289 @@
+index,product_brand,product_title,current_price,min_quantity,regular_price,sale_price,was_price,non_members_price,product_image
+0,General Mills,"Honey Nut Cheerios Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104047_EA/en/1/21104047_en_front_v2_400.png
+1,Post,Shreddies Original Cereals,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427214_EA/en/1/62815438021_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+2,Kelloggs,Rice Krispies Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450814_EA/en/1/6410014450_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+3,General Mills,Cheerios Whole Grain Breakfast Cereal Limited Edition,3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104173_EA/en/1/21104173_en_front_v2_400.png
+4,Kelloggs,Rice Krispies Original,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21449784_EA/en/1/21449784_en_front_v1_400.png
+5,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Whole Grains and Real Cinnamon",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104055_EA/en/1/21104055_en_front_v1_400.png
+6,Kelloggs,Oven-Toasted Rice Grain Cereal Holiday Edition,4.5,1,4.5,,,,https://digital.loblaws.ca/PCX/21307252_EA/en/1/6410013593_enfr_front_centre_marketing_A_GS1_Marketing_v1_400.png
+7,General Mills,"Honey Nut Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103495_EA/en/1/21103495_en_front_v2_400.png
+8,Post,Honeycomb Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20299648_EA/en/1/20299648_en_front_400.png
+9,Quaker,Maple & Brown Sugar Flavour Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190254_EA/en/1/21190254_en_front_400.png
+10,Kelloggs,Corn Flakes Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21450811_EA/en/1/6410014311_en_front_centre_marketing_GS1_Ecommerce_400.png
+11,General Mills,"Multi Grain Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104058_EA/en/1/21104058_en_front_v2_400.png
+12,Post,Honey Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427201_EA/en/1/62815438033_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+13,Kelloggs,Corn Flakes Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450851_EA/en/1/6410014452_en_front_centre_marketing_1_GS1_Ecommerce_v1_400.png
+14,Quaker,Quick Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113001_EA/en/1/20323113001_en_front_v1_400.png
+15,Kelloggs,Froot Loops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652128_EA/en/1/5972410186_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+16,Kelloggs,Frosted Flakes Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652110_EA/en/1/5972410148_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+17,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104054_EA/en/1/21104054_en_front_400.png
+18,General Mills,"Original Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103499_EA/en/1/21103499_en_front_v2_400.png
+19,General Mills,"Multi Grain Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103503_EA/en/1/21103503_en_front_v2_400.png
+20,Kelloggs,Mini Wheats Mini Wheat Frosted Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21430748_EA/en/1/21430748_en_front_400.png
+21,President's Choice,Extra-Fluffy Buttermilk Pancake & Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20175129_EA/en/1/6038305897_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+22,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103492_EA/en/1/21103492_en_front_400.png
+23,Quaker,Instant Oatmeal 3 Flavour Variety Pack,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190260_EA/en/1/21190260_en_front_400.png
+24,Quaker,Harvest Crunch Original Granola Cereal,5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21219824_EA/en/1/21219824_en_front_400.png
+25,Post,Spoon Size Shredded Wheat & Bran Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20751584_EA/en/1/20751584_en_front_v1_400.png
+26,Kelloggs,Raisin Bran Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21652002_EA/en/1/5972410166_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+27,Quaker,"Oats, Large Flake",5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113002_EA/en/1/20323113002_en_front_400.png
+28,Post,Shredded Wheat Big Biscuit Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20014409_EA/en/1/20014409_en_front_400.png
+29,Kelloggs,Vector Meal Replacement Cereal,13.99,1,13.99,,,,https://digital.loblaws.ca/PCX/20072706_EA/en/1/20072706_en_front_400.png
+30,Post,Shreddies Cereal Original Family Size,7.29,1,7.29,,,,https://digital.loblaws.ca/PCX/21575229_EA/en/1/21575229_en_front_400.png
+31,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103505_EA/en/1/21103505_en_front_v2_400.png
+32,Post,With Almonds Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427197_EA/en/1/21427197_en_front_400.png
+33,Kelloggs,Poptarts Pop Tarts Frosted Strawberry,3.0,3,,3.0,,3.75,https://digital.loblaws.ca/PCX/21290111_EA/en/1/6410013092_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+34,Kelloggs,Froot Loops Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651640_EA/en/1/5972410164_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+35,Kelloggs,Vector Meal Replacement Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21504064_EA/en/1/6410014665_en_front_centre_marketing_GS1_Ecommerce_400.png
+36,Kelloggs,Frosted Flakes Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651947_EA/en/1/5972410172_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+37,Post,Honey Bunches Of Oat Honey Roasted Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427173_EA/en/1/62815438071_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+38,Weetabix,Whole Grain Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20184626_EA/en/1/20184626_en_front_400.png
+39,Quaker,Regular Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190265_EA/en/1/21190265_en_front_400.png
+40,President's Choice,Original Extra-Fluffy Pancake And Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20318589_EA/en/1/6038305898_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+41,Post,Sugar Crisp Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20071915001_EA/en/1/62815413800_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+42,Kelloggs,Krave Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21653742_EA/en/1/5972410156_en_front_centre_marketing_A_1_GS1_Ecommerce_v2_400.png
+43,General Mills,"Reese's Puffs Breakfast Cereal, Peanut Butter Chocolate, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104053_EA/en/1/21104053_en_front_v2_400.png
+44,General Mills,"Rice Chex, Gluten Free",5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21535225_EA/en/1/6563319797_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+45,Quaker,One Minute Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113003_EA/en/1/20323113003_en_front_v1_400.png
+46,Kelloggs,All Bran All-Bran Buds Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/20016844_EA/en/1/20016844_en_front_400.png
+47,Kelloggs,Corn Pops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652133_EA/en/1/5972410190_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+48,General Mills,"Honey Nut Cheerios Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104047_EA/en/1/21104047_en_front_v2_400.png
+49,Post,Shreddies Original Cereals,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427214_EA/en/1/62815438021_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+50,Kelloggs,Rice Krispies Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450814_EA/en/1/6410014450_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+51,General Mills,Cheerios Whole Grain Breakfast Cereal Limited Edition,3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104173_EA/en/1/21104173_en_front_v2_400.png
+52,Kelloggs,Rice Krispies Original,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21449784_EA/en/1/21449784_en_front_v1_400.png
+53,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Whole Grains and Real Cinnamon",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104055_EA/en/1/21104055_en_front_v1_400.png
+54,Kelloggs,Oven-Toasted Rice Grain Cereal Holiday Edition,4.5,1,4.5,,,,https://digital.loblaws.ca/PCX/21307252_EA/en/1/6410013593_enfr_front_centre_marketing_A_GS1_Marketing_v1_400.png
+55,General Mills,"Honey Nut Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103495_EA/en/1/21103495_en_front_v2_400.png
+56,Post,Honeycomb Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20299648_EA/en/1/20299648_en_front_400.png
+57,Quaker,Maple & Brown Sugar Flavour Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190254_EA/en/1/21190254_en_front_400.png
+58,Kelloggs,Corn Flakes Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21450811_EA/en/1/6410014311_en_front_centre_marketing_GS1_Ecommerce_400.png
+59,General Mills,"Multi Grain Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104058_EA/en/1/21104058_en_front_v2_400.png
+60,Post,Honey Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427201_EA/en/1/62815438033_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+61,Kelloggs,Corn Flakes Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450851_EA/en/1/6410014452_en_front_centre_marketing_1_GS1_Ecommerce_v1_400.png
+62,Quaker,Quick Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113001_EA/en/1/20323113001_en_front_v1_400.png
+63,Kelloggs,Froot Loops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652128_EA/en/1/5972410186_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+64,Kelloggs,Frosted Flakes Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652110_EA/en/1/5972410148_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+65,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104054_EA/en/1/21104054_en_front_400.png
+66,General Mills,"Original Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103499_EA/en/1/21103499_en_front_v2_400.png
+67,General Mills,"Multi Grain Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103503_EA/en/1/21103503_en_front_v2_400.png
+68,Kelloggs,Mini Wheats Mini Wheat Frosted Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21430748_EA/en/1/21430748_en_front_400.png
+69,President's Choice,Extra-Fluffy Buttermilk Pancake & Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20175129_EA/en/1/6038305897_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+70,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103492_EA/en/1/21103492_en_front_400.png
+71,Quaker,Instant Oatmeal 3 Flavour Variety Pack,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190260_EA/en/1/21190260_en_front_400.png
+72,Quaker,Harvest Crunch Original Granola Cereal,5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21219824_EA/en/1/21219824_en_front_400.png
+73,Post,Spoon Size Shredded Wheat & Bran Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20751584_EA/en/1/20751584_en_front_v1_400.png
+74,Kelloggs,Raisin Bran Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21652002_EA/en/1/5972410166_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+75,Quaker,"Oats, Large Flake",5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113002_EA/en/1/20323113002_en_front_400.png
+76,Post,Shredded Wheat Big Biscuit Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20014409_EA/en/1/20014409_en_front_400.png
+77,Kelloggs,Vector Meal Replacement Cereal,13.99,1,13.99,,,,https://digital.loblaws.ca/PCX/20072706_EA/en/1/20072706_en_front_400.png
+78,Post,Shreddies Cereal Original Family Size,7.29,1,7.29,,,,https://digital.loblaws.ca/PCX/21575229_EA/en/1/21575229_en_front_400.png
+79,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103505_EA/en/1/21103505_en_front_v2_400.png
+80,Post,With Almonds Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427197_EA/en/1/21427197_en_front_400.png
+81,Kelloggs,Poptarts Pop Tarts Frosted Strawberry,3.0,3,,3.0,,3.75,https://digital.loblaws.ca/PCX/21290111_EA/en/1/6410013092_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+82,Kelloggs,Froot Loops Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651640_EA/en/1/5972410164_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+83,Kelloggs,Vector Meal Replacement Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21504064_EA/en/1/6410014665_en_front_centre_marketing_GS1_Ecommerce_400.png
+84,Kelloggs,Frosted Flakes Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651947_EA/en/1/5972410172_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+85,Post,Honey Bunches Of Oat Honey Roasted Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427173_EA/en/1/62815438071_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+86,Weetabix,Whole Grain Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20184626_EA/en/1/20184626_en_front_400.png
+87,Quaker,Regular Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190265_EA/en/1/21190265_en_front_400.png
+88,President's Choice,Original Extra-Fluffy Pancake And Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20318589_EA/en/1/6038305898_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+89,Post,Sugar Crisp Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20071915001_EA/en/1/62815413800_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+90,Kelloggs,Krave Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21653742_EA/en/1/5972410156_en_front_centre_marketing_A_1_GS1_Ecommerce_v2_400.png
+91,General Mills,"Reese's Puffs Breakfast Cereal, Peanut Butter Chocolate, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104053_EA/en/1/21104053_en_front_v2_400.png
+92,General Mills,"Rice Chex, Gluten Free",5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21535225_EA/en/1/6563319797_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+93,Quaker,One Minute Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113003_EA/en/1/20323113003_en_front_v1_400.png
+94,Kelloggs,All Bran All-Bran Buds Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/20016844_EA/en/1/20016844_en_front_400.png
+95,Kelloggs,Corn Pops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652133_EA/en/1/5972410190_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+96,General Mills,"Honey Nut Cheerios Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104047_EA/en/1/21104047_en_front_v2_400.png
+97,Post,Shreddies Original Cereals,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427214_EA/en/1/62815438021_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+98,Kelloggs,Rice Krispies Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450814_EA/en/1/6410014450_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+99,General Mills,Cheerios Whole Grain Breakfast Cereal Limited Edition,3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104173_EA/en/1/21104173_en_front_v2_400.png
+100,Kelloggs,Rice Krispies Original,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21449784_EA/en/1/21449784_en_front_v1_400.png
+101,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Whole Grains and Real Cinnamon",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104055_EA/en/1/21104055_en_front_v1_400.png
+102,Kelloggs,Oven-Toasted Rice Grain Cereal Holiday Edition,4.5,1,4.5,,,,https://digital.loblaws.ca/PCX/21307252_EA/en/1/6410013593_enfr_front_centre_marketing_A_GS1_Marketing_v1_400.png
+103,General Mills,"Honey Nut Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103495_EA/en/1/21103495_en_front_v2_400.png
+104,Post,Honeycomb Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20299648_EA/en/1/20299648_en_front_400.png
+105,Quaker,Maple & Brown Sugar Flavour Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190254_EA/en/1/21190254_en_front_400.png
+106,Kelloggs,Corn Flakes Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21450811_EA/en/1/6410014311_en_front_centre_marketing_GS1_Ecommerce_400.png
+107,General Mills,"Multi Grain Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104058_EA/en/1/21104058_en_front_v2_400.png
+108,Post,Honey Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427201_EA/en/1/62815438033_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+109,Kelloggs,Corn Flakes Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450851_EA/en/1/6410014452_en_front_centre_marketing_1_GS1_Ecommerce_v1_400.png
+110,Quaker,Quick Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113001_EA/en/1/20323113001_en_front_v1_400.png
+111,Kelloggs,Froot Loops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652128_EA/en/1/5972410186_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+112,Kelloggs,Frosted Flakes Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652110_EA/en/1/5972410148_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+113,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104054_EA/en/1/21104054_en_front_400.png
+114,General Mills,"Original Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103499_EA/en/1/21103499_en_front_v2_400.png
+115,General Mills,"Multi Grain Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103503_EA/en/1/21103503_en_front_v2_400.png
+116,Kelloggs,Mini Wheats Mini Wheat Frosted Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21430748_EA/en/1/21430748_en_front_400.png
+117,President's Choice,Extra-Fluffy Buttermilk Pancake & Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20175129_EA/en/1/6038305897_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+118,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103492_EA/en/1/21103492_en_front_400.png
+119,Quaker,Instant Oatmeal 3 Flavour Variety Pack,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190260_EA/en/1/21190260_en_front_400.png
+120,Quaker,Harvest Crunch Original Granola Cereal,5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21219824_EA/en/1/21219824_en_front_400.png
+121,Post,Spoon Size Shredded Wheat & Bran Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20751584_EA/en/1/20751584_en_front_v1_400.png
+122,Kelloggs,Raisin Bran Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21652002_EA/en/1/5972410166_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+123,Quaker,"Oats, Large Flake",5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113002_EA/en/1/20323113002_en_front_400.png
+124,Post,Shredded Wheat Big Biscuit Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20014409_EA/en/1/20014409_en_front_400.png
+125,Kelloggs,Vector Meal Replacement Cereal,13.99,1,13.99,,,,https://digital.loblaws.ca/PCX/20072706_EA/en/1/20072706_en_front_400.png
+126,Post,Shreddies Cereal Original Family Size,7.29,1,7.29,,,,https://digital.loblaws.ca/PCX/21575229_EA/en/1/21575229_en_front_400.png
+127,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103505_EA/en/1/21103505_en_front_v2_400.png
+128,Post,With Almonds Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427197_EA/en/1/21427197_en_front_400.png
+129,Kelloggs,Poptarts Pop Tarts Frosted Strawberry,3.0,3,,3.0,,3.75,https://digital.loblaws.ca/PCX/21290111_EA/en/1/6410013092_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+130,Kelloggs,Froot Loops Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651640_EA/en/1/5972410164_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+131,Kelloggs,Vector Meal Replacement Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21504064_EA/en/1/6410014665_en_front_centre_marketing_GS1_Ecommerce_400.png
+132,Kelloggs,Frosted Flakes Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651947_EA/en/1/5972410172_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+133,Post,Honey Bunches Of Oat Honey Roasted Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427173_EA/en/1/62815438071_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+134,Weetabix,Whole Grain Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20184626_EA/en/1/20184626_en_front_400.png
+135,Quaker,Regular Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190265_EA/en/1/21190265_en_front_400.png
+136,President's Choice,Original Extra-Fluffy Pancake And Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20318589_EA/en/1/6038305898_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+137,Post,Sugar Crisp Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20071915001_EA/en/1/62815413800_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+138,Kelloggs,Krave Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21653742_EA/en/1/5972410156_en_front_centre_marketing_A_1_GS1_Ecommerce_v2_400.png
+139,General Mills,"Reese's Puffs Breakfast Cereal, Peanut Butter Chocolate, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104053_EA/en/1/21104053_en_front_v2_400.png
+140,General Mills,"Rice Chex, Gluten Free",5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21535225_EA/en/1/6563319797_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+141,Quaker,One Minute Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113003_EA/en/1/20323113003_en_front_v1_400.png
+142,Kelloggs,All Bran All-Bran Buds Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/20016844_EA/en/1/20016844_en_front_400.png
+143,Kelloggs,Corn Pops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652133_EA/en/1/5972410190_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+144,General Mills,"Honey Nut Cheerios Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104047_EA/en/1/21104047_en_front_v2_400.png
+145,Post,Shreddies Original Cereals,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427214_EA/en/1/62815438021_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+146,Kelloggs,Rice Krispies Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450814_EA/en/1/6410014450_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+147,General Mills,Cheerios Whole Grain Breakfast Cereal Limited Edition,3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104173_EA/en/1/21104173_en_front_v2_400.png
+148,Kelloggs,Rice Krispies Original,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21449784_EA/en/1/21449784_en_front_v1_400.png
+149,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Whole Grains and Real Cinnamon",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104055_EA/en/1/21104055_en_front_v1_400.png
+150,Kelloggs,Oven-Toasted Rice Grain Cereal Holiday Edition,4.5,1,4.5,,,,https://digital.loblaws.ca/PCX/21307252_EA/en/1/6410013593_enfr_front_centre_marketing_A_GS1_Marketing_v1_400.png
+151,General Mills,"Honey Nut Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103495_EA/en/1/21103495_en_front_v2_400.png
+152,Post,Honeycomb Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20299648_EA/en/1/20299648_en_front_400.png
+153,Quaker,Maple & Brown Sugar Flavour Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190254_EA/en/1/21190254_en_front_400.png
+154,Kelloggs,Corn Flakes Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21450811_EA/en/1/6410014311_en_front_centre_marketing_GS1_Ecommerce_400.png
+155,General Mills,"Multi Grain Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104058_EA/en/1/21104058_en_front_v2_400.png
+156,Post,Honey Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427201_EA/en/1/62815438033_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+157,Kelloggs,Corn Flakes Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450851_EA/en/1/6410014452_en_front_centre_marketing_1_GS1_Ecommerce_v1_400.png
+158,Quaker,Quick Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113001_EA/en/1/20323113001_en_front_v1_400.png
+159,Kelloggs,Froot Loops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652128_EA/en/1/5972410186_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+160,Kelloggs,Frosted Flakes Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652110_EA/en/1/5972410148_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+161,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104054_EA/en/1/21104054_en_front_400.png
+162,General Mills,"Original Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103499_EA/en/1/21103499_en_front_v2_400.png
+163,General Mills,"Multi Grain Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103503_EA/en/1/21103503_en_front_v2_400.png
+164,Kelloggs,Mini Wheats Mini Wheat Frosted Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21430748_EA/en/1/21430748_en_front_400.png
+165,President's Choice,Extra-Fluffy Buttermilk Pancake & Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20175129_EA/en/1/6038305897_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+166,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103492_EA/en/1/21103492_en_front_400.png
+167,Quaker,Instant Oatmeal 3 Flavour Variety Pack,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190260_EA/en/1/21190260_en_front_400.png
+168,Quaker,Harvest Crunch Original Granola Cereal,5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21219824_EA/en/1/21219824_en_front_400.png
+169,Post,Spoon Size Shredded Wheat & Bran Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20751584_EA/en/1/20751584_en_front_v1_400.png
+170,Kelloggs,Raisin Bran Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21652002_EA/en/1/5972410166_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+171,Quaker,"Oats, Large Flake",5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113002_EA/en/1/20323113002_en_front_400.png
+172,Post,Shredded Wheat Big Biscuit Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20014409_EA/en/1/20014409_en_front_400.png
+173,Kelloggs,Vector Meal Replacement Cereal,13.99,1,13.99,,,,https://digital.loblaws.ca/PCX/20072706_EA/en/1/20072706_en_front_400.png
+174,Post,Shreddies Cereal Original Family Size,7.29,1,7.29,,,,https://digital.loblaws.ca/PCX/21575229_EA/en/1/21575229_en_front_400.png
+175,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103505_EA/en/1/21103505_en_front_v2_400.png
+176,Post,With Almonds Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427197_EA/en/1/21427197_en_front_400.png
+177,Kelloggs,Poptarts Pop Tarts Frosted Strawberry,3.0,3,,3.0,,3.75,https://digital.loblaws.ca/PCX/21290111_EA/en/1/6410013092_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+178,Kelloggs,Froot Loops Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651640_EA/en/1/5972410164_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+179,Kelloggs,Vector Meal Replacement Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21504064_EA/en/1/6410014665_en_front_centre_marketing_GS1_Ecommerce_400.png
+180,Kelloggs,Frosted Flakes Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651947_EA/en/1/5972410172_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+181,Post,Honey Bunches Of Oat Honey Roasted Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427173_EA/en/1/62815438071_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+182,Weetabix,Whole Grain Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20184626_EA/en/1/20184626_en_front_400.png
+183,Quaker,Regular Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190265_EA/en/1/21190265_en_front_400.png
+184,President's Choice,Original Extra-Fluffy Pancake And Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20318589_EA/en/1/6038305898_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+185,Post,Sugar Crisp Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20071915001_EA/en/1/62815413800_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+186,Kelloggs,Krave Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21653742_EA/en/1/5972410156_en_front_centre_marketing_A_1_GS1_Ecommerce_v2_400.png
+187,General Mills,"Reese's Puffs Breakfast Cereal, Peanut Butter Chocolate, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104053_EA/en/1/21104053_en_front_v2_400.png
+188,General Mills,"Rice Chex, Gluten Free",5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21535225_EA/en/1/6563319797_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+189,Quaker,One Minute Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113003_EA/en/1/20323113003_en_front_v1_400.png
+190,Kelloggs,All Bran All-Bran Buds Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/20016844_EA/en/1/20016844_en_front_400.png
+191,Kelloggs,Corn Pops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652133_EA/en/1/5972410190_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+192,General Mills,"Honey Nut Cheerios Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104047_EA/en/1/21104047_en_front_v2_400.png
+193,Post,Shreddies Original Cereals,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427214_EA/en/1/62815438021_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+194,Kelloggs,Rice Krispies Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450814_EA/en/1/6410014450_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+195,General Mills,Cheerios Whole Grain Breakfast Cereal Limited Edition,3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104173_EA/en/1/21104173_en_front_v2_400.png
+196,Kelloggs,Rice Krispies Original,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21449784_EA/en/1/21449784_en_front_v1_400.png
+197,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Whole Grains and Real Cinnamon",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104055_EA/en/1/21104055_en_front_v1_400.png
+198,Kelloggs,Oven-Toasted Rice Grain Cereal Holiday Edition,4.5,1,4.5,,,,https://digital.loblaws.ca/PCX/21307252_EA/en/1/6410013593_enfr_front_centre_marketing_A_GS1_Marketing_v1_400.png
+199,General Mills,"Honey Nut Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103495_EA/en/1/21103495_en_front_v2_400.png
+200,Post,Honeycomb Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20299648_EA/en/1/20299648_en_front_400.png
+201,Quaker,Maple & Brown Sugar Flavour Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190254_EA/en/1/21190254_en_front_400.png
+202,Kelloggs,Corn Flakes Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21450811_EA/en/1/6410014311_en_front_centre_marketing_GS1_Ecommerce_400.png
+203,General Mills,"Multi Grain Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104058_EA/en/1/21104058_en_front_v2_400.png
+204,Post,Honey Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427201_EA/en/1/62815438033_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+205,Kelloggs,Corn Flakes Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450851_EA/en/1/6410014452_en_front_centre_marketing_1_GS1_Ecommerce_v1_400.png
+206,Quaker,Quick Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113001_EA/en/1/20323113001_en_front_v1_400.png
+207,Kelloggs,Froot Loops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652128_EA/en/1/5972410186_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+208,Kelloggs,Frosted Flakes Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652110_EA/en/1/5972410148_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+209,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104054_EA/en/1/21104054_en_front_400.png
+210,General Mills,"Original Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103499_EA/en/1/21103499_en_front_v2_400.png
+211,General Mills,"Multi Grain Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103503_EA/en/1/21103503_en_front_v2_400.png
+212,Kelloggs,Mini Wheats Mini Wheat Frosted Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21430748_EA/en/1/21430748_en_front_400.png
+213,President's Choice,Extra-Fluffy Buttermilk Pancake & Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20175129_EA/en/1/6038305897_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+214,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103492_EA/en/1/21103492_en_front_400.png
+215,Quaker,Instant Oatmeal 3 Flavour Variety Pack,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190260_EA/en/1/21190260_en_front_400.png
+216,Quaker,Harvest Crunch Original Granola Cereal,5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21219824_EA/en/1/21219824_en_front_400.png
+217,Post,Spoon Size Shredded Wheat & Bran Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20751584_EA/en/1/20751584_en_front_v1_400.png
+218,Kelloggs,Raisin Bran Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21652002_EA/en/1/5972410166_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+219,Quaker,"Oats, Large Flake",5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113002_EA/en/1/20323113002_en_front_400.png
+220,Post,Shredded Wheat Big Biscuit Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20014409_EA/en/1/20014409_en_front_400.png
+221,Kelloggs,Vector Meal Replacement Cereal,13.99,1,13.99,,,,https://digital.loblaws.ca/PCX/20072706_EA/en/1/20072706_en_front_400.png
+222,Post,Shreddies Cereal Original Family Size,7.29,1,7.29,,,,https://digital.loblaws.ca/PCX/21575229_EA/en/1/21575229_en_front_400.png
+223,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103505_EA/en/1/21103505_en_front_v2_400.png
+224,Post,With Almonds Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427197_EA/en/1/21427197_en_front_400.png
+225,Kelloggs,Poptarts Pop Tarts Frosted Strawberry,3.0,3,,3.0,,3.75,https://digital.loblaws.ca/PCX/21290111_EA/en/1/6410013092_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+226,Kelloggs,Froot Loops Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651640_EA/en/1/5972410164_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+227,Kelloggs,Vector Meal Replacement Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21504064_EA/en/1/6410014665_en_front_centre_marketing_GS1_Ecommerce_400.png
+228,Kelloggs,Frosted Flakes Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651947_EA/en/1/5972410172_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+229,Post,Honey Bunches Of Oat Honey Roasted Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427173_EA/en/1/62815438071_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+230,Weetabix,Whole Grain Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20184626_EA/en/1/20184626_en_front_400.png
+231,Quaker,Regular Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190265_EA/en/1/21190265_en_front_400.png
+232,President's Choice,Original Extra-Fluffy Pancake And Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20318589_EA/en/1/6038305898_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+233,Post,Sugar Crisp Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20071915001_EA/en/1/62815413800_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+234,Kelloggs,Krave Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21653742_EA/en/1/5972410156_en_front_centre_marketing_A_1_GS1_Ecommerce_v2_400.png
+235,General Mills,"Reese's Puffs Breakfast Cereal, Peanut Butter Chocolate, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104053_EA/en/1/21104053_en_front_v2_400.png
+236,General Mills,"Rice Chex, Gluten Free",5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21535225_EA/en/1/6563319797_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+237,Quaker,One Minute Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113003_EA/en/1/20323113003_en_front_v1_400.png
+238,Kelloggs,All Bran All-Bran Buds Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/20016844_EA/en/1/20016844_en_front_400.png
+239,Kelloggs,Corn Pops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652133_EA/en/1/5972410190_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+240,General Mills,"Honey Nut Cheerios Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104047_EA/en/1/21104047_en_front_v2_400.png
+241,Post,Shreddies Original Cereals,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427214_EA/en/1/62815438021_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+242,Kelloggs,Rice Krispies Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450814_EA/en/1/6410014450_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+243,General Mills,Cheerios Whole Grain Breakfast Cereal Limited Edition,3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104173_EA/en/1/21104173_en_front_v2_400.png
+244,Kelloggs,Rice Krispies Original,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21449784_EA/en/1/21449784_en_front_v1_400.png
+245,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Whole Grains and Real Cinnamon",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104055_EA/en/1/21104055_en_front_v1_400.png
+246,Kelloggs,Oven-Toasted Rice Grain Cereal Holiday Edition,4.5,1,4.5,,,,https://digital.loblaws.ca/PCX/21307252_EA/en/1/6410013593_enfr_front_centre_marketing_A_GS1_Marketing_v1_400.png
+247,General Mills,"Honey Nut Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103495_EA/en/1/21103495_en_front_v2_400.png
+248,Post,Honeycomb Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20299648_EA/en/1/20299648_en_front_400.png
+249,Quaker,Maple & Brown Sugar Flavour Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190254_EA/en/1/21190254_en_front_400.png
+250,Kelloggs,Corn Flakes Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21450811_EA/en/1/6410014311_en_front_centre_marketing_GS1_Ecommerce_400.png
+251,General Mills,"Multi Grain Breakfast Cereal, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104058_EA/en/1/21104058_en_front_v2_400.png
+252,Post,Honey Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427201_EA/en/1/62815438033_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+253,Kelloggs,Corn Flakes Cereal,4.5,2,,4.5,,5.79,https://digital.loblaws.ca/PCX/21450851_EA/en/1/6410014452_en_front_centre_marketing_1_GS1_Ecommerce_v1_400.png
+254,Quaker,Quick Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113001_EA/en/1/20323113001_en_front_v1_400.png
+255,Kelloggs,Froot Loops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652128_EA/en/1/5972410186_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+256,Kelloggs,Frosted Flakes Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652110_EA/en/1/5972410148_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+257,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104054_EA/en/1/21104054_en_front_400.png
+258,General Mills,"Original Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103499_EA/en/1/21103499_en_front_v2_400.png
+259,General Mills,"Multi Grain Cheerios Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103503_EA/en/1/21103503_en_front_v2_400.png
+260,Kelloggs,Mini Wheats Mini Wheat Frosted Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21430748_EA/en/1/21430748_en_front_400.png
+261,President's Choice,Extra-Fluffy Buttermilk Pancake & Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20175129_EA/en/1/6038305897_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+262,General Mills,"Cinnamon Toast Crunch Breakfast Cereal, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103492_EA/en/1/21103492_en_front_400.png
+263,Quaker,Instant Oatmeal 3 Flavour Variety Pack,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190260_EA/en/1/21190260_en_front_400.png
+264,Quaker,Harvest Crunch Original Granola Cereal,5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21219824_EA/en/1/21219824_en_front_400.png
+265,Post,Spoon Size Shredded Wheat & Bran Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20751584_EA/en/1/20751584_en_front_v1_400.png
+266,Kelloggs,Raisin Bran Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21652002_EA/en/1/5972410166_en_front_centre_marketing_1_GS1_Ecommerce_400.png
+267,Quaker,"Oats, Large Flake",5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113002_EA/en/1/20323113002_en_front_400.png
+268,Post,Shredded Wheat Big Biscuit Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20014409_EA/en/1/20014409_en_front_400.png
+269,Kelloggs,Vector Meal Replacement Cereal,13.99,1,13.99,,,,https://digital.loblaws.ca/PCX/20072706_EA/en/1/20072706_en_front_400.png
+270,Post,Shreddies Cereal Original Family Size,7.29,1,7.29,,,,https://digital.loblaws.ca/PCX/21575229_EA/en/1/21575229_en_front_400.png
+271,General Mills,"Lucky Charms Breakfast Cereal with Marshmallows, Family Size, Whole Grains",7.99,1,7.99,,,,https://digital.loblaws.ca/PCX/21103505_EA/en/1/21103505_en_front_v2_400.png
+272,Post,With Almonds Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427197_EA/en/1/21427197_en_front_400.png
+273,Kelloggs,Poptarts Pop Tarts Frosted Strawberry,3.0,3,,3.0,,3.75,https://digital.loblaws.ca/PCX/21290111_EA/en/1/6410013092_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+274,Kelloggs,Froot Loops Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651640_EA/en/1/5972410164_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+275,Kelloggs,Vector Meal Replacement Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21504064_EA/en/1/6410014665_en_front_centre_marketing_GS1_Ecommerce_400.png
+276,Kelloggs,Frosted Flakes Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21651947_EA/en/1/5972410172_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+277,Post,Honey Bunches Of Oat Honey Roasted Cereal,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/21427173_EA/en/1/62815438071_en_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+278,Weetabix,Whole Grain Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20184626_EA/en/1/20184626_en_front_400.png
+279,Quaker,Regular Instant Oatmeal,3.5,1,,3.5,4.0,,https://digital.loblaws.ca/PCX/21190265_EA/en/1/21190265_en_front_400.png
+280,President's Choice,Original Extra-Fluffy Pancake And Waffle Mix,3.75,1,3.75,,,,https://digital.loblaws.ca/PCX/20318589_EA/en/1/6038305898_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+281,Post,Sugar Crisp Cereal    ,5.49,1,5.49,,,,https://digital.loblaws.ca/PCX/20071915001_EA/en/1/62815413800_enfr_front_centre_marketing_GS1_Ecommerce_400.png
+282,Kelloggs,Krave Cereal Family Size,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/21653742_EA/en/1/5972410156_en_front_centre_marketing_A_1_GS1_Ecommerce_v2_400.png
+283,General Mills,"Reese's Puffs Breakfast Cereal, Peanut Butter Chocolate, Whole Grains",3.0,1,,3.0,4.5,,https://digital.loblaws.ca/PCX/21104053_EA/en/1/21104053_en_front_v2_400.png
+284,General Mills,"Rice Chex, Gluten Free",5.99,1,5.99,,,,https://digital.loblaws.ca/PCX/21535225_EA/en/1/6563319797_enfr_front_centre_marketing_A_1_GS1_Ecommerce_v1_400.png
+285,Quaker,One Minute Oats,5.79,1,5.79,,,,https://digital.loblaws.ca/PCX/20323113003_EA/en/1/20323113003_en_front_v1_400.png
+286,Kelloggs,All Bran All-Bran Buds Cereal,6.0,1,,6.0,7.99,,https://digital.loblaws.ca/PCX/20016844_EA/en/1/20016844_en_front_400.png
+287,Kelloggs,Corn Pops Cereal,4.0,1,4.0,,,,https://digital.loblaws.ca/PCX/21652133_EA/en/1/5972410190_en_front_centre_marketing_1_GS1_Ecommerce_400.png

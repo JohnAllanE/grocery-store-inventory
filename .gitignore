@@ -1,0 +1,6 @@
+JA/product_images/
+JA/videos/
+.venv
+JA/html/
+.DS_Store
+JA/.python-version
